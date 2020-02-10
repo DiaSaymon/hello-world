@@ -1,2 +1,2 @@
 # hello-world
-учимся кодить
+ learning to code
